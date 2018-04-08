@@ -634,7 +634,7 @@ S.17.12.10
 井上雅二
 S.12.3.20
 
-荒潮の若人
+[荒潮の若人](https://github.com/qhqburningbooks/kouchou_no_wakoudo)
 伊波南晢
 大日本雄弁会講談社
 S.18.3.22
